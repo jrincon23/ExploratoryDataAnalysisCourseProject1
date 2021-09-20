@@ -1,4 +1,4 @@
-# Exploratory DataAnalysis: Course Project 1
+# Exploratory Data Analysis: Course Project 1
 Included files:
 - plot1.R: script to re create plot1.png
 - plot1.png: output of script plot1.R
